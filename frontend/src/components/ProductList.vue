@@ -15,7 +15,7 @@
           <tr>
             <th scope="col" class="px-6 py-3">Product Name</th>
             <th scope="col" class="px-6 py-3">Product Price</th>
-            <th scope="col" class="px-6 py-3">Actions</th>
+            <th scope="col" class="px-6 py-3">Action</th>
           </tr>
         </thead>
         <tbody>
