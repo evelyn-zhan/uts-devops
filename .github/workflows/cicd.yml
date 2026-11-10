@@ -76,6 +76,3 @@ jobs:
           docker rm -f uts-devops-db uts-devops-backend uts-devops-frontend 2>$null
           docker compose down
           docker compose up -d --build
-          cd C:\Users\VIVOBOOK
-          cd actions-runner
-          ./run.cmd
