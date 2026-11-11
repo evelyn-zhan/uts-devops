@@ -3,7 +3,7 @@
     <router-link
       to="/create"
       class="w-fit h-fit px-4 py-2 rounded-md bg-emerald-500 text-white text-md font-semibold"
-      >Add Product</router-link
+      >Add New Product</router-link
     >
     <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
       <table
